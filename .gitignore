@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.html
+*.pdf
+
+# the generated explorer is the published artefact, not a build leftover
+!index.html
