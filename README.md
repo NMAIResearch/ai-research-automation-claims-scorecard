@@ -1,6 +1,6 @@
-# AI Research-Automation Scorecard
+# The AI Automation Claims Scorecard
 
-Version 0.1, 13 August 2026. NM AI Research.
+Version 0.1.1, 18 August 2026. NM AI Research.
 
 A motive-neutral referee for the claims frontier AI labs and large adopters make about
 how much of their code an AI now writes, and for the recursion red-lines those labs set

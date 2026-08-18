@@ -3,6 +3,9 @@ __pycache__/
 .DS_Store
 *.html
 *.pdf
-
-# the generated explorer is the published artefact, not a build leftover
-!index.html
+*.mp4
+_prev_versions/
+sources/
+publish.json
+zenodo_metadata.json
+VERIFY_AUDIO_CHECKLIST.md
