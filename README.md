@@ -12,7 +12,7 @@ of interest and scope section.
 
 ## What ships
 
-    AI_Research_Automation_Scorecard_v0.1_2026-08-13.pdf   the paper
+    AI_Automation_Claims_Scorecard_v0.1.1_2026-08-18.pdf   the paper
     claims_v0.1.csv                                        Layer 1, twelve graded claims
     triggers_v0.1.csv                                      Layer 2, twelve register rows
     source_register.csv                                    eighteen sources, hashed
