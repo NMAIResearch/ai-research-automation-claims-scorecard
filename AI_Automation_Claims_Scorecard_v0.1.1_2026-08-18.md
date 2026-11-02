@@ -1,6 +1,6 @@
 # The AI Automation Claims Scorecard
 
-*A motive-neutral referee for self-reported vendor figures and stated safety red-lines. Version 0.1.1. NM AI Research, 18 August 2026.*
+*A motive-neutral referee for self-reported vendor figures and stated safety red-lines. Version 0.1.1. NMAI Research, 18 August 2026.*
 
 AI disclosure: the research is the author's; this text was drafted with AI assistance and reviewed by the author. The model, and the conflict it creates, are named in the Conflict of interest and scope section.
 

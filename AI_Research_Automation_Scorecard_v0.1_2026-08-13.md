@@ -1,6 +1,6 @@
  # The AI Research-Automation Scorecard
 
-*A motive-neutral referee for the labs' self-reported "AI writes our code" claims, and for the recursion red-lines the field states in its own safety frameworks. Version 0.1. NM AI Research, 13 August 2026.*
+*A motive-neutral referee for the labs' self-reported "AI writes our code" claims, and for the recursion red-lines the field states in its own safety frameworks. Version 0.1. NMAI Research, 13 August 2026.*
 
 AI disclosure: the research is the author's; this text was drafted with AI assistance and reviewed by the author. The model, and the conflict it creates, are named in the Conflict of interest and scope section.
 

@@ -6,7 +6,7 @@ Corrections and additions recorded against the published record. v0 was minted
 ⛔ Nothing in the v0 bundle is overwritten. v0.1 files carry their own names and the
 2026-07-12 artefacts stand as deposited.
 
-## v0.1, in preparation, 2026-08-13
+## v0.1, published 2026-08-13
 
 ### C-01 ⛔ WITHDRAWN: the OpenAI source date
 
@@ -394,26 +394,6 @@ which is the scorecard's thesis stated from inside the set.
 transcripts and are marked as such; they locate, date and scope a claim but do not settle exact
 wording without a check against audio.
 
-## Outstanding before mint
-
-- Hand-fetch and hash: the Anthropic Institute piece, the METR report PDF, the TIME article.
-  Five of six register rows are `registered_not_retrieved`.
-- Firm or retire the AI Ascent 2026 event date (C-01).
-- Resolve the Anthropic Institute publication date: reporting says 4 June 2026, the fetcher
-  returned May 2026, which may be the data date rather than the publication date.
-- Enter C-06 into `triggers.csv`.
-- Add the second sources: arXiv 2607.07663, ResearchArena, ResearchGym, AIRA_2, the 2606.07462
-  suite. AIRA_2 was flagged for this project in the 2026-07-08 paper triage and never folded in.
-- Flip the motive-tier key to the house canonical direction (logged coherence debt from v0).
-- Concept DOI into `PORTFOLIO.md` and the landing page; the piece still has no repo.
-- ⚠️ `SOURCES.md` is still v0-era: it says eight claims, is marked web-verified 2026-07-12, and its
-  motive-tier key runs the opposite way to the paper and to `claims_v0.1.csv` (it reads 1 = strongest
-  incentive). Rewrite or retire it before mint; it currently contradicts the piece it accompanies.
-- ⚠️ The Benioff register row still points at `bloomberg.com`. The held transcript came from the
-  video posting, not from Bloomberg's own page, and the address should be the one it was taken from.
-- ⚠️ Several items in this list are already done (sources hand-fetched and hashed, the Ascent date
-  firmed at C-01). Reconcile the list against the file before mint rather than reading it as current.
-
 ### C-20 ⛔ WITHDRAWN same day: the Meta research-loop assertion
 
 C-19 recorded `research_loop_isolated` = Y for Meta, moving the count to 3 of 12. **Withdrawn on
@@ -540,9 +520,6 @@ both places.
 ⚠️ The same check fires on the published Article 50 snapshot, a 31-word run repeated between its
 method and a later section. ⛔ Not a re-mint on its own; it rides the next substantive change.
 
-⚠️ `zenodo_metadata.json` still lists the v0 file set, so the deposit gate never saw this paper.
-Update `_files` to the v0.1 artefacts before the mint.
-
 ### C-25 The disclosure names Google, drops OpenAI, and the ownership clause becomes `research design`
 
 His calls, 2026-08-13/14, during the final read.
@@ -588,3 +565,19 @@ differs from the template on that line.
 ⚠️ The METR "independent cross-lab instrument" rows in Layer 2 are a different subject and stay.
 
 ⇒ Re-rendered. 8 pages, no literal asterisks, reproduce exits 0, prepublish passes.
+
+## Open after v0.1
+
+These items were listed before the v0.1 mint and are still open. Each is a limitation of the
+published scorecard.
+
+- The Anthropic Institute piece's publication date is not confirmed. The scorecard dates it
+  2026-06-04, from reporting; the held capture of the page gives no publication date, and its
+  "As of May 2026" dates the merged-code figure, not the piece.
+- ResearchArena, one of the five second sources named before the mint, was not added to
+  `source_register.csv`. The other four are held: arXiv 2607.07663, a second source for the
+  Anthropic Institute row, and AIRA2 (arXiv 2603.26499), ResearchGym (arXiv 2602.15112) and the
+  arXiv 2606.07462 suite, which no row of `claims_v0.1.csv` or `triggers_v0.1.csv` cites.
+- The Benioff row of `source_register.csv` still gives `bloomberg.com` as its address. The held
+  transcript came from the video posting, not from Bloomberg's own page, and the row does not
+  name the address it was taken from.
