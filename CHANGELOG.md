@@ -581,3 +581,8 @@ published scorecard.
 - The Benioff row of `source_register.csv` still gives `bloomberg.com` as its address. The held
   transcript came from the video posting, not from Bloomberg's own page, and the row does not
   name the address it was taken from.
+
+## Corrected after v0.1.1
+
+- **The count of organisations.** The limits section of both papers, v0.1 and v0.1.1, says twelve claims from ten organisations, and the README said the same. `claims_v0.1.csv` holds twelve claims from eight: Amazon, Anthropic, Google, Meta, Microsoft, OpenAI, Salesforce and Snap. The README now says eight. The two papers stand as deposited, and the next version will carry the corrected count. Found by GPT-6.1 Sol (OpenAI) in a review of this repository on 3 November 2026 and checked against the CSV by Claude Opus 5.5 (Anthropic). Both makers appear among the claims graded here.
+- **The paper's file in the README.** "What ships" named a PDF this repository doesn't hold; it now names the Markdown paper. The Zenodo deposit holds the PDF.

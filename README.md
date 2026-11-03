@@ -12,7 +12,7 @@ of interest and scope section.
 
 ## What ships
 
-    AI_Automation_Claims_Scorecard_v0.1.1_2026-08-18.pdf   the paper
+    AI_Automation_Claims_Scorecard_v0.1.1_2026-08-18.md   the paper
     claims_v0.1.csv                                        Layer 1, twelve graded claims
     triggers_v0.1.csv                                      Layer 2, twelve register rows
     source_register.csv                                    eighteen sources, hashed
@@ -96,7 +96,7 @@ change what a reader can do with this deposit:
   telemetry. Disclosure quality is the object being measured, not a reduced version of one.
 - **The denominators are incompatible**, so the spread is reported rather than resolved into a
   single comparable number. Lines merged and new code approved by engineers are not one measure.
-- **The set is a convenience sample against stated criteria**, twelve claims from ten
+- **The set is a convenience sample against stated criteria**, twelve claims from eight
   organisations. A claim absent from it is not a claim that does not exist.
 - **The source files are not deposited and the hashes do not all reproduce.** Stable files such
   as the arXiv papers will; browser captures will not, because a capture embeds session data and
